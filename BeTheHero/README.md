@@ -24,13 +24,6 @@
 The Application was built following the guidance of [Diego Fernandes](https://github.com/diego3g) in "Semana Omnistack 11"
 
 ### Deployment
-You can test the web or the mobile application on the following links:
-
-Web: 
-Mobile: https://1drv.ms/u/s!Amy2nIam3pCVkr8jIb4yoMZnVH_XHg?e=5SigPU
-
-### Notes
-All notes taken in the course (in portuguese) can be found on my [Notion Page](https://www.notion.so/Semana-Omnistack-11-2444d294eb114084847871f045bd182a)
 
 ### License
 This project is under an MIT license. See the file [LICENSE](LICENSE.md) for more detail.
